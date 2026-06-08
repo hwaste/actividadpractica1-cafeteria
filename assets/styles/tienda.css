@@ -66,9 +66,13 @@ nav a{
     box-shadow: 0px 2px 8px gray;
 }
 
+.card img {
+    margin-bottom: 15px;
+}
+
 .card:hover{
     /* agrandamos ligeramente al pasar el cursr sobre la tarjeta */
-    transform: scale(1.20);
+    transform: scale(1.10);
 }
 
 button{
